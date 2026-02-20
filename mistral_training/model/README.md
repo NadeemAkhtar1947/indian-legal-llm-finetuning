@@ -1,2 +1,2 @@
 # Model
-Available on HuggingFace: [llama-3.1-indian-legal](https://huggingface.co/nadeem172/mistral-7b-indian-legal)
+Available on HuggingFace: [Mistral-7B Fine-tuned for Indian Legal Documents](https://huggingface.co/nadeem172/mistral-7b-indian-legal)
