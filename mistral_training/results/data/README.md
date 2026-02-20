@@ -1,2 +1,2 @@
 # Dataset
-Available on HuggingFace: [indian-legal-llama3-dataset](https://huggingface.co/datasets/nadeem172/indian-legal-mistral-dataset)
+Available on HuggingFace: [Mistral-7B Fine-tuned](https://huggingface.co/datasets/nadeem172/indian-legal-mistral-dataset)
