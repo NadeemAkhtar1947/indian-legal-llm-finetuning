@@ -1,5 +1,6 @@
 # Fine-Tuning Large Language Models for Indian Legal NLP
 
+[![Paper](https://img.shields.io/badge/Paper-CVR%202026-blue)](link-to-paper)
 [![Models](https://img.shields.io/badge/🤗%20Models-HuggingFace-orange)](https://huggingface.co/nadeem172/models)
 [![Datasets](https://img.shields.io/badge/🤗%20Datasets-HuggingFace-yellow)](https://huggingface.co/nadeem172/datasets)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -119,7 +120,7 @@ tokenizer = AutoTokenizer.from_pretrained("nadeem172/llama-3.1-indian-legal")
 
 **Md Nadeem Akhtar**  
 M.Tech Data Science and Engineering  
-Dr. B R Ambedkar National Institute of Technology, Jalandhar  
+Dr. BR Ambedkar National Institute of Technology, Jalandhar  
 Email: mdna.ds.24@nitj.ac.in
 
 **Dr Amritpal Singh**  
